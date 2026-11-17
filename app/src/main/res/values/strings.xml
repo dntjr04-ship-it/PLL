@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">건강 체크</string>
+    <string name="header_subtitle_format">약 %1$d개 중 %2$d개 복용 완료</string>
+    <string name="header_all_meds_done">오늘 약을 모두 복용했어요</string>
+    <string name="med_morning">아침 약</string>
+    <string name="med_lunch">점심 약</string>
+    <string name="med_dinner">저녁 약</string>
+    <string name="med_status_taken">복용 완료</string>
+    <string name="med_status_pending">눌러서 체크</string>
+    <string name="water_section_title">오늘 마신 물</string>
+    <string name="water_cup_count_format">%1$d잔</string>
+    <string name="water_goal_label">하루 목표 8잔</string>
+    <string name="water_goal_reached">목표 달성!</string>
+    <string name="water_add_button">물 한 잔 마셨어요 (+1컵)</string>
+    <string name="water_undo_button">-1컵</string>
+    <string name="cd_med_checked">%1$s 복용 완료됨. 눌러서 취소</string>
+    <string name="cd_med_unchecked">%1$s 복용 전. 눌러서 복용 완료 체크</string>
+    <string name="cd_water_cup_filled">%1$d번째 물컵 채워짐</string>
+    <string name="cd_water_cup_empty">%1$d번째 물컵 비어 있음</string>
+    <string name="cd_water_undo">마신 물 1컵 줄이기</string>
+</resources>
